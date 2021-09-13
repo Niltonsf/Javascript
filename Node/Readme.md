@@ -6,3 +6,4 @@
 - ["dependencies"] (--save-prod)
 - [node_modules] (npm i) ou (npm install)
 - [iniciar server node] (npm start)
+- [iniciar webpack] (npm run dev)
